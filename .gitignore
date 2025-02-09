@@ -1,0 +1,27 @@
+# Node modules folder
+node_modules/
+/target
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# IDE / Editor directories and settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: coverage reports (e.g., from Jest or other testing tools)
+coverage/
+
+# Optional: additional project-specific ignores
+# e.g. if you generate a 'tmp' or 'temp' directory:
+# tmp/
+# temp/
